@@ -18,7 +18,7 @@ p {
 }
 
 #large {
-    font-size: 25px;
+    font-size: 30px;
     padding-top: 10px;
 }
 
@@ -38,6 +38,7 @@ p {
     font-family: arial;
     font-style: oblique;
     padding: 15px 0px;
+    font-size: 30px
 }
 
 #footer {
