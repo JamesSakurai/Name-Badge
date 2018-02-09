@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(73,73,73);
+}
+
+p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: rgb(242, 59, 43);
+    margin: 5% 40%;
+    position: relative;
+}
+
+#large {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#small {
+    padding-bottom: 10px;
+}
+
+#intro {
+    color: white;
+    font-family: arial black;
+    justify-content: center;
+}
+
+#name {
+    text-align: center;
+    background-color: rgb(255,255,255);
+    font-family: arial;
+    font-style: oblique;
+    padding: 15px 0px;
+}
+
+#footer {
+    margin-bottom: 20px;
+}
